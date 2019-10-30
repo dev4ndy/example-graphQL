@@ -22,7 +22,6 @@ const app = new App().app;
  */
 apolloServer.applyMiddleware({ app });
 
-
 /**
  * RUN THE APP
  */
